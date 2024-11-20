@@ -52,9 +52,10 @@ h1{
 strong{
     color: lightskyblue;
 }
-.imglogo {
-    width: 250px;
-    height: auto;
-    margin: 10px 0;
-
+.service-item {
+    border: 2px solid lightskyblue;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 5px;
+    display: inline-block; 
 }
